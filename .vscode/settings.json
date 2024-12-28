@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stat.h": "c",
+        "windows.h": "c",
+        "logger.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "directory_ops.h": "c",
+        "file_operations.h": "c"
+    }
+}
